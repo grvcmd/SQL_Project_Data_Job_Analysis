@@ -53,7 +53,7 @@ Here's the insights I found of the top data analyst jobs in 2023:
 - **💡Competitive Salaries in Tech Companies:** Tech companies like Meta and Pinterest are offering highly competitive salaries for data analyst roles. This trend underscores the critical role data analytics plays in driving business strategies and decisions in the tech industry.
 - **💡Full-Time Remote Flexibility:** There is a strong trend of high-paying data analyst jobs offering remote or hybrid work options. This flexibility attracts top talent, which is reflected in the competitive salaries offered by companies like UCLA Healthcare Careers and SmartAsset.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts: ChatGPT generated this grapg from my SQL query results*
 
 ### 2. The Highest Paying Skills for Data Analyst Jobs.
